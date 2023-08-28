@@ -1,14 +1,8 @@
-﻿pot à feu
-lampe à suif
-chandelle de suif
-chandelle
-bec de gaz
+﻿chandelle
 flambeau
 gaz
 lampe
-pain de chandelle
 lampion
-rat de cave
 carcel
 falot
 lanterne
@@ -22,7 +16,6 @@ chandelier
 lustre
 torche
 torchère
-lampe à arc
 quinquet
 Jablochkoff
 Argand
@@ -33,12 +26,9 @@ lumière
 allumette-bougie
 tige
 ampoule
-globe de verre
 lampadaire
 foyer
-lampe à pétrole
 plafonnier
-lampe de suspension
-feu d'artifice
+feu
 fanal
 allumette

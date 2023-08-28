@@ -3,14 +3,12 @@ abruti
 agonie
 aimé
 aimer
-aimer
 amant
 amour
 amoureux
 attendri
 attirant
 attrait
-au bras
 beauté
 bouleverser
 caressant
@@ -25,7 +23,6 @@ couler
 craindre
 déception
 déchirer
-désir
 désir
 détresse
 doucement
@@ -65,21 +62,15 @@ pétulant
 plaisir
 poitrine
 profond
-profond
 regretter
 remords
 rêve
 rêver
 rieur
-s'amuser
 satisfaction
-se plaire
-sembler
 sembler
 sensation
 sentiment
-sentir
-sentir
 sentir
 solitudes
 souffrance
@@ -90,6 +81,5 @@ tendresse
 ténébreux
 triste
 vertige
-voix
 voix
 volupté
